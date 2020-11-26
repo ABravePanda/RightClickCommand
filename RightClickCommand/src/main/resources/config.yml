@@ -1,0 +1,11 @@
+###############################
+#							  #
+# RightClickCommand			  #
+#							  #
+# Developed by A_Brave_Panda  #
+#							  #
+###############################
+#
+commands:
+    - "say Hi %player%"
+    - "say Hello"
